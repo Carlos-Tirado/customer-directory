@@ -1,0 +1,57 @@
+#customer-directory {
+    border: 1px solid gray;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+    
+    
+    
+}
+
+.customer {
+    background-color: rgb(240, 237, 233);
+    width: 100%;
+    
+
+}
+
+.name{
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+    background-color: whitesmoke;
+    
+}
+.gridcustomers {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    /*width: 90%;
+    margin: auto;
+    background-color:
+    padding: 1px;
+    border: 1px solid;
+
+}
+
+/*.box {
+    width: 353px;
+    height: 350px;
+    border: 3px ghostwhite;
+    background-color: gainsboro;
+    margin: 5px;
+    text-align: center;
+    line-height: 300px;
+} */
